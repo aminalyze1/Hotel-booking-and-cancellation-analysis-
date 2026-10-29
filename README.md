@@ -4,7 +4,7 @@ Why do hotel guests cancel their reservations, and what can a hotel do about it?
 
 This project analyses **52,243 hotel bookings** to find the factors behind cancellations. The results are shown in an interactive Excel dashboard.
 
-![Hotel Booking & Cancellation Analysis dashboard](images/hotel_booking_and_cancellation_analysis)
+[![Hotel Booking & Cancellation Analysis dashboard](images/hotel_booking_and_cancellation_analysis)](https://github.com/aminalyze1/Hotel-booking-and-cancellation-analysis-/blob/main/hotel%20booking%20%26%20cancellation%20analysis)
 
 ## Business Questions
 
